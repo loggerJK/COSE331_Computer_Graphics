@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "__availability": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "cmath": "cpp",
+        "compare": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "vector": "cpp"
+    }
+}
